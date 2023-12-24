@@ -1,0 +1,4 @@
+Python projects' categories:
+1. Web Develpment
+2. Databases
+3. Algorithm
